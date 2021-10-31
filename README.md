@@ -23,6 +23,7 @@
 
   ## Usage
   The purpose of this is to have notes written down and saved for the user. All they do is type the notes up and save them. 
+  https://github.com/anun05/note-taker
 
 
   ## Contributing
